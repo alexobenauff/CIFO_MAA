@@ -6,7 +6,7 @@ public class Main {
 
 	public static final int NUMBER_OF_TRIANGLES = 100;
 	public static final int NUMBER_OF_RUNS = 3;
-	public static final int NUMBER_OF_GENERATIONS = 2000;
+	public static final int NUMBER_OF_GENERATIONS = 2000; //test test test
 	public static final int POPULATION_SIZE = 25;
 	public static final String Selection = "Tournament";
 	public static double MUTATION_PROBABILIY =1;
